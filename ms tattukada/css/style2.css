@@ -1,0 +1,29 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+
+.wln {
+    font-size: 40px;
+    font-family: 'Zeyada', cursive;
+    color: rgb(163, 26, 26);
+    
+    /* background: url("../images/kothyb6.jpg");
+    background-size: contain;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent; */
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    .wln {
+        font-size: 20px; /* Adjust font size for smaller screens */
+    }
+}
+
+@media (max-width: 576px) {
+    .wln {
+        font-size: 20px; /* Further adjust font size for even smaller screens */
+    }
+}
+
+
